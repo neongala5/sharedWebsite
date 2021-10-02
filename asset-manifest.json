@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/sharedWebsite/static/js/main.de818558.chunk.js",
-    "main.js.map": "/sharedWebsite/static/js/main.de818558.chunk.js.map",
+    "main.css": "/sharedWebsite/static/css/main.67c88f01.chunk.css",
+    "main.js": "/sharedWebsite/static/js/main.fb42d3a5.chunk.js",
+    "main.js.map": "/sharedWebsite/static/js/main.fb42d3a5.chunk.js.map",
     "runtime-main.js": "/sharedWebsite/static/js/runtime-main.ec40f46f.js",
     "runtime-main.js.map": "/sharedWebsite/static/js/runtime-main.ec40f46f.js.map",
-    "static/js/2.9fc3942d.chunk.js": "/sharedWebsite/static/js/2.9fc3942d.chunk.js",
-    "static/js/2.9fc3942d.chunk.js.map": "/sharedWebsite/static/js/2.9fc3942d.chunk.js.map",
+    "static/js/2.6fed763a.chunk.js": "/sharedWebsite/static/js/2.6fed763a.chunk.js",
+    "static/js/2.6fed763a.chunk.js.map": "/sharedWebsite/static/js/2.6fed763a.chunk.js.map",
     "index.html": "/sharedWebsite/index.html",
-    "static/js/2.9fc3942d.chunk.js.LICENSE.txt": "/sharedWebsite/static/js/2.9fc3942d.chunk.js.LICENSE.txt"
+    "static/css/main.67c88f01.chunk.css.map": "/sharedWebsite/static/css/main.67c88f01.chunk.css.map",
+    "static/js/2.6fed763a.chunk.js.LICENSE.txt": "/sharedWebsite/static/js/2.6fed763a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec40f46f.js",
-    "static/js/2.9fc3942d.chunk.js",
-    "static/js/main.de818558.chunk.js"
+    "static/js/2.6fed763a.chunk.js",
+    "static/css/main.67c88f01.chunk.css",
+    "static/js/main.fb42d3a5.chunk.js"
   ]
 }
