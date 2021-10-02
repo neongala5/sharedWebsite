@@ -6,7 +6,7 @@ Open [https://neongala5.github.io/sharedWebsite/]
 
 ### `npm run deploy`
 
-This will update what we have up and running live.
+This will update what we have up and running live. It takes quite a long time to do so, so give it a minute.
 
 # To run this locally use:
 
